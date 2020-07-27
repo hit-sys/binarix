@@ -10,3 +10,6 @@ su -c "make install"
 To uninstall run:
 
 su -c "make uninstall"
+
+# Screenshot
+![Binarix Demonstration](/binarix_screenshot.png?raw=true "Binarix")
